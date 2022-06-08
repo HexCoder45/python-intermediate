@@ -43,4 +43,4 @@ print(mycar)
 
 #Deleting the empty dictionary
 del mycar 
-print(mycar)
+print()
